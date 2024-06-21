@@ -15,3 +15,5 @@ O cliente deverá interagir com o usuário por comandos de console, sendo eles:
 - list: exibe uma lista de arquivos disponíveis no servidor. A lista deverá identificar cada arquivo por um número inteiro, contando a partir de 1.
 - down COD: solicita o download de um arquivo do servidor, onde COD representa o valor numérico inteiro que identifica o arquivo.
 - up caminho_para_o_arquivo: faz upload de um arquivo para o servidor, onde caminho_para_o_arquivo representa o caminho para o arquivo no cliente.
+
+![image](https://github.com/JoiceColling/FileServer/assets/21341122/bc011864-e47e-4bef-aa13-ebcf4e864a6a)
